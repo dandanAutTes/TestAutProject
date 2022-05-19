@@ -1,0 +1,246 @@
+00:32:50.591 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+00:32:56.205 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+00:33:07.039 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+00:33:07.040 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+00:33:10.393 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+00:33:33.011 [main] ERROR interactions.elements.Pages.BasicSetup - OnFailure
+00:33:34.068 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+00:33:37.761 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+00:33:45.622 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+00:33:45.623 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+00:33:49.329 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+00:33:59.994 [main] INFO  interactions.elements.Pages.BasicSetup - Inserted Product:Test Product 124 with Code:124
+00:34:01.692 [main] INFO  interactions.elements.Pages.BasicSetup - Product is created
+00:34:01.768 [main] INFO  interactions.elements.Pages.BasicSetup - onTestSuccess
+00:34:05.472 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+00:34:13.861 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+00:34:13.861 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+00:34:17.328 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+00:34:27.935 [main] INFO  interactions.elements.Pages.BasicSetup - Inserted Product:Test Product 125 with Code:125
+00:34:29.657 [main] INFO  interactions.elements.Pages.BasicSetup - Product is created
+00:34:29.716 [main] INFO  interactions.elements.Pages.BasicSetup - onTestSuccess
+00:34:31.888 [main] INFO  interactions.elements.Pages.BasicSetup - onFinish
+16:36:54.798 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+16:37:03.677 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+16:37:19.605 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+16:37:19.606 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+16:37:22.718 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+16:37:46.729 [main] ERROR interactions.elements.Pages.BasicSetup - OnFailure
+16:37:48.973 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+16:37:53.788 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+16:38:05.776 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+16:38:05.777 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+16:38:09.125 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+16:38:19.799 [main] INFO  interactions.elements.Pages.BasicSetup - Inserted Product:Test Product 124 with Code:124
+16:38:21.631 [main] INFO  interactions.elements.Pages.BasicSetup - Product is created
+16:38:21.749 [main] INFO  interactions.elements.Pages.BasicSetup - onTestSuccess
+16:38:26.913 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+16:38:41.829 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+16:38:41.829 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+16:38:46.375 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+16:38:57.053 [main] INFO  interactions.elements.Pages.BasicSetup - Inserted Product:Test Product 125 with Code:125
+16:39:00.306 [main] INFO  interactions.elements.Pages.BasicSetup - Product is created
+16:39:00.352 [main] INFO  interactions.elements.Pages.BasicSetup - onTestSuccess
+16:39:01.202 [main] INFO  interactions.elements.Pages.BasicSetup - onFinish
+16:44:26.519 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+16:44:32.614 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+16:44:39.182 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+16:44:39.187 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+16:44:47.453 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+16:45:11.054 [main] ERROR interactions.elements.Pages.BasicSetup - OnFailure
+16:45:13.241 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+16:45:16.370 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+16:45:22.675 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+16:45:22.676 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+16:45:27.320 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+16:45:38.154 [main] INFO  interactions.elements.Pages.BasicSetup - Inserted Product:Test Product 124 with Code:124
+16:45:40.344 [main] INFO  interactions.elements.Pages.BasicSetup - Product is created
+16:45:40.422 [main] INFO  interactions.elements.Pages.BasicSetup - onTestSuccess
+16:45:45.704 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+16:45:54.235 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+16:45:54.235 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+16:45:58.118 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+16:46:08.829 [main] INFO  interactions.elements.Pages.BasicSetup - Inserted Product:Test Product 125 with Code:125
+16:46:11.128 [main] INFO  interactions.elements.Pages.BasicSetup - Product is created
+16:46:11.181 [main] INFO  interactions.elements.Pages.BasicSetup - onTestSuccess
+16:46:12.147 [main] INFO  interactions.elements.Pages.BasicSetup - onFinish
+20:09:17.763 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+20:09:26.103 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+20:09:34.776 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+20:09:34.780 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+20:09:39.667 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+20:10:01.886 [main] ERROR interactions.elements.Pages.BasicSetup - OnFailure
+20:10:04.291 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+20:10:08.918 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+20:10:17.366 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+20:10:17.367 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+20:10:21.617 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+20:10:32.300 [main] INFO  interactions.elements.Pages.BasicSetup - Inserted Product:Test Product 124 with Code:124
+20:10:34.437 [main] INFO  interactions.elements.Pages.BasicSetup - Product is created
+20:10:34.528 [main] INFO  interactions.elements.Pages.BasicSetup - onTestSuccess
+20:10:40.983 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+20:10:56.815 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+20:10:56.815 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+20:11:01.631 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+20:11:12.581 [main] INFO  interactions.elements.Pages.BasicSetup - Inserted Product:Test Product 125 with Code:125
+20:11:14.455 [main] INFO  interactions.elements.Pages.BasicSetup - Product is created
+20:11:14.525 [main] INFO  interactions.elements.Pages.BasicSetup - onTestSuccess
+20:11:17.116 [main] INFO  interactions.elements.Pages.BasicSetup - onFinish
+20:18:05.756 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+20:18:11.924 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+20:18:20.166 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+20:18:20.183 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+20:18:24.432 [main] ERROR interactions.elements.Pages.BasicSetup - OnFailure
+20:18:26.078 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+20:18:30.456 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+20:18:38.619 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+20:18:38.620 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+20:18:41.995 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+20:18:52.730 [main] INFO  interactions.elements.Pages.BasicSetup - Inserted Product:Test Product 124 with Code:124
+20:18:54.529 [main] INFO  interactions.elements.Pages.BasicSetup - Product is created
+20:18:54.583 [main] INFO  interactions.elements.Pages.BasicSetup - onTestSuccess
+20:18:59.437 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+20:19:07.566 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+20:19:07.567 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+20:19:10.750 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+20:19:21.402 [main] INFO  interactions.elements.Pages.BasicSetup - Inserted Product:Test Product 125 with Code:125
+20:19:23.088 [main] INFO  interactions.elements.Pages.BasicSetup - Product is created
+20:19:23.148 [main] INFO  interactions.elements.Pages.BasicSetup - onTestSuccess
+20:19:25.318 [main] INFO  interactions.elements.Pages.BasicSetup - onFinish
+20:26:27.111 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+20:26:33.163 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+20:26:47.374 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+20:26:47.376 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+20:26:49.995 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+20:27:15.006 [main] ERROR interactions.elements.Pages.BasicSetup - OnFailure
+20:27:17.198 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+20:27:21.597 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+20:27:28.266 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+20:27:28.266 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+20:27:35.254 [main] ERROR interactions.elements.Pages.BasicSetup - OnFailure
+20:27:41.235 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+20:27:49.911 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+20:27:49.911 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+20:27:53.608 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+20:28:04.683 [main] INFO  interactions.elements.Pages.BasicSetup - Inserted Product:Test Product 125 with Code:125
+20:28:06.569 [main] INFO  interactions.elements.Pages.BasicSetup - Product is created
+20:28:06.642 [main] INFO  interactions.elements.Pages.BasicSetup - onTestSuccess
+20:28:07.468 [main] INFO  interactions.elements.Pages.BasicSetup - onFinish
+20:31:42.905 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+20:31:48.419 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+20:31:56.456 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+20:31:56.464 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+20:32:00.046 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+20:32:24.273 [main] ERROR interactions.elements.Pages.BasicSetup - OnFailure
+20:32:26.485 [main] INFO  interactions.elements.Pages.BasicSetup - onFinish
+22:39:01.915 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+22:39:11.714 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+22:39:20.791 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+22:39:20.794 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+22:39:24.796 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+22:39:47.913 [main] ERROR interactions.elements.Pages.BasicSetup - OnFailure
+22:39:50.122 [main] INFO  interactions.elements.Pages.BasicSetup - onFinish
+23:03:48.356 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+23:03:54.706 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+23:04:05.932 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+23:04:05.934 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+23:04:09.014 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+23:04:31.821 [main] ERROR interactions.elements.Pages.BasicSetup - OnFailure
+23:04:34.372 [main] INFO  interactions.elements.Pages.BasicSetup - onFinish
+23:11:28.911 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+23:11:34.210 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+23:11:40.415 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+23:11:40.419 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+23:11:46.117 [main] ERROR interactions.elements.Pages.BasicSetup - OnFailure
+23:11:48.250 [main] INFO  interactions.elements.Pages.BasicSetup - onFinish
+23:13:50.386 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+23:13:55.277 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+23:14:06.993 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+23:14:06.994 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+23:14:10.841 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+23:14:33.777 [main] ERROR interactions.elements.Pages.BasicSetup - OnFailure
+23:14:35.916 [main] INFO  interactions.elements.Pages.BasicSetup - onFinish
+23:18:27.022 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+23:18:33.396 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+23:18:49.565 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+23:18:49.568 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+23:18:54.476 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+23:19:22.197 [main] ERROR interactions.elements.Pages.BasicSetup - OnFailure
+23:19:24.358 [main] INFO  interactions.elements.Pages.BasicSetup - onFinish
+23:21:47.746 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+23:21:54.145 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+23:22:02.789 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+23:22:02.791 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+23:22:08.206 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+23:22:30.421 [main] ERROR interactions.elements.Pages.BasicSetup - OnFailure
+23:22:32.590 [main] INFO  interactions.elements.Pages.BasicSetup - onFinish
+23:24:39.846 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+23:24:48.711 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+23:24:57.141 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+23:24:57.143 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+23:25:02.723 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+23:25:24.829 [main] ERROR interactions.elements.Pages.BasicSetup - OnFailure
+23:25:27.031 [main] INFO  interactions.elements.Pages.BasicSetup - onFinish
+23:27:48.056 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+23:27:54.066 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+23:28:07.834 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+23:28:07.836 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+23:28:11.903 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+23:28:34.779 [main] ERROR interactions.elements.Pages.BasicSetup - OnFailure
+23:28:36.978 [main] INFO  interactions.elements.Pages.BasicSetup - onFinish
+23:32:56.763 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+23:33:02.288 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+23:33:14.366 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+23:33:14.368 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+23:33:17.342 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+23:33:40.460 [main] ERROR interactions.elements.Pages.BasicSetup - OnFailure
+23:33:42.621 [main] INFO  interactions.elements.Pages.BasicSetup - onFinish
+23:40:24.192 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+23:40:30.105 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+23:40:44.711 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+23:40:44.712 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+23:40:47.960 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+23:41:10.814 [main] ERROR interactions.elements.Pages.BasicSetup - OnFailure
+23:41:11.895 [main] INFO  interactions.elements.Pages.BasicSetup - onFinish
+23:43:16.650 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+23:43:21.223 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+23:43:29.061 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+23:43:29.063 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+23:43:32.305 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+23:43:55.436 [main] ERROR interactions.elements.Pages.BasicSetup - OnFailure
+23:43:57.576 [main] INFO  interactions.elements.Pages.BasicSetup - onFinish
+00:01:14.974 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+00:01:19.665 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+00:01:30.665 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+00:01:30.666 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+00:01:34.075 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+00:01:57.240 [main] ERROR interactions.elements.Pages.BasicSetup - OnFailure
+00:01:59.421 [main] INFO  interactions.elements.Pages.BasicSetup - onFinish
+10:51:34.709 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+10:51:42.746 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+10:51:51.087 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+10:51:51.090 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+10:51:59.410 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+10:52:24.293 [main] ERROR interactions.elements.Pages.BasicSetup - OnFailure
+10:52:26.940 [main] INFO  interactions.elements.Pages.BasicSetup - onFinish
+10:54:17.606 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+10:54:26.951 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+10:54:40.753 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+10:54:40.755 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+10:54:44.550 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+10:55:08.776 [main] ERROR interactions.elements.Pages.BasicSetup - OnFailure
+10:55:11.072 [main] INFO  interactions.elements.Pages.BasicSetup - onFinish
+10:59:41.147 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+10:59:47.879 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+10:59:57.107 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+10:59:57.129 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+11:00:04.920 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+11:00:32.468 [main] ERROR interactions.elements.Pages.BasicSetup - OnFailure
+11:00:34.650 [main] INFO  interactions.elements.Pages.BasicSetup - onFinish
+11:04:35.615 [main] INFO  interactions.elements.Pages.BasicSetup - OnStart
+11:04:41.075 [main] INFO  interactions.elements.Pages.BasicSetup - driver is config
+11:04:49.971 [main] INFO  interactions.elements.Pages.BasicSetup - onTestStart
+11:04:49.997 [main] INFO  interactions.elements.Pages.BasicSetup - Search Products
+11:04:55.817 [main] INFO  interactions.elements.Pages.BasicSetup - Product search changed to all
+11:05:19.200 [main] ERROR interactions.elements.Pages.BasicSetup - OnFailure
+11:05:21.390 [main] INFO  interactions.elements.Pages.BasicSetup - onFinish
