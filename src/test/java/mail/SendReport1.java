@@ -27,7 +27,7 @@ public class SendReport1 {
             sysmProp.put("mail.smtp.password", "test1234@123");
             sysmProp.put("mail.smtp.port", "587");
             sysmProp.put("mail.smtp.auth", "true");
-        System.out.println("2 se izvrshi");
+            System.out.println("2 se izvrshi");
             /*Create session object*/
             Session session = Session.getInstance(sysmProp, null);
 

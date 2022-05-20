@@ -11,5 +11,20 @@
             <class name="interactions.elements.testNG.TestNG_001"/>
         </classes>
     </test> <!-- Test -->
+    <test name="Test Basics 2">
+        <classes>
+            <class name="interactions.elements.testNG.TestNG_002"/>
+        </classes>
+    </test> <!-- Test -->
+    <test name="Test Basics 3">
+        <classes>
+            <class name="interactions.elements.testNG.TestNG_003"/>
+        </classes>
+    </test> <!-- Test -->
+    <test name="Test Basics 5">
+        <classes>
+            <class name="interactions.elements.testNG.TestNG_005"/>
+        </classes>
+    </test> <!-- Test -->
 
 </suite> <!-- Suite -->

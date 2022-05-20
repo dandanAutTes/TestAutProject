@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="AutTestExe" />
         <module name="AutTestNG" />
+        <module name="AutTestNG_repo" />
       </profile>
     </annotationProcessing>
   </component>
